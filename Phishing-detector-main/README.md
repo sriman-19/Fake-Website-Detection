@@ -19,7 +19,7 @@ I designed and developed this project with the goal of enhancing online safety a
 
 ## 🖥️ GUI Preview
 
-![UI Screenshot](path_to_your_ui_image.png) <!-- Replace with actual screenshot path -->
+![UI Screenshot](Phishing-detector-main/UI Screenshot) <!-- Replace with actual screenshot path -->
 
 ---
 
