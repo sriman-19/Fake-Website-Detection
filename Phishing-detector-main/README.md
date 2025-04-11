@@ -19,7 +19,7 @@ I designed and developed this project with the goal of enhancing online safety a
 
 ## 🖥️ GUI Preview
 
-![UI Screenshot](Phishing-detector-main/UI Screenshot) <!-- Replace with actual screenshot path -->
+![UI Screenshot](https://github.com/sriman-19/Fake-Website-Detection/blob/main/Phishing-detector-main/UI%20Screenshot)<!-- Replace with actual screenshot path -->
 
 ---
 
